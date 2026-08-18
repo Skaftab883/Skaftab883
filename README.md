@@ -1,8 +1,47 @@
-# 👋 Hey, I'm Aftab Shaikh
+<!-- ==================== HEADER ==================== -->
 
-### 💻 Full-Stack & AI/GenAI Developer
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:A855F7&height=220&section=header&text=AFTAB%20SHAIKH&fontSize=48&fontColor=ffffff&fontAlignY=35&animation=twinkling" width="100%"/>
+</p>
 
-I’m a developer who enjoys building **real-world applications**, exploring **Generative AI**, and turning ideas into useful software.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Full-Stack+%26+AI%2FGenAI+Developer;Java+%7C+Spring+Boot+%7C+React+%7C+Python;AI%2FML%2FDL+%7C+LLMs+%7C+RAG;LangChain+%7C+LangGraph+%7C+Backend+Engineering" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Full--Stack%20Developer-4F46E5?style=for-the-badge&logo=code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%2FGenAI-A855F7?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java%20Developer-7C3AED?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aftab-shaikh-55566021/">
+    <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:shaikhaftab883@gmail.com">
+    <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Skaftab883">
+    <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/aftab_sk_7">
+    <img src="https://img.shields.io/badge/Instagram-A855F7?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Skaftab883&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
+  <img src="https://img.shields.io/github/followers/Skaftab883?style=for-the-badge&color=4F46E5&labelColor=18181B&label=FOLLOWERS"/>
+  <img src="https://img.shields.io/github/stars/Skaftab883?style=for-the-badge&color=A855F7&labelColor=18181B&label=STARS"/>
+</p>
+
+---
+
+## 💻 Full-Stack & AI/GenAI Developer
+
+I'm a developer who enjoys building **real-world applications**, exploring **Generative AI**, and turning ideas into useful software.
 
 - ☕ **Java & Spring Boot** for backend development
 - ⚛️ **React & JavaScript** for modern web applications
@@ -10,7 +49,8 @@ I’m a developer who enjoys building **real-world applications**, exploring **G
 - 🤖 **LLMs, RAG, LangChain & LangGraph**
 - 🧠 Knowledge of **AI/ML/DL concepts**
 - 🏢 Professional experience at **Zensar**
-- 🚀 Always learning, building, and experimenting
+- ⚙️ Interested in backend engineering, APIs, databases and scalable applications
+- 📚 Always learning, experimenting and building
 
 > **Build → Break → Learn → Improve → Repeat.**
 
@@ -20,45 +60,58 @@ I’m a developer who enjoys building **real-world applications**, exploring **G
 
 ### 💻 Languages
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,html,css&theme=dark" />
+</p>
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js&theme=dark" />
+</p>
 
 ### ⚙️ Backend & Frameworks
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,maven&theme=dark" />
+</p>
 
 ### 🤖 AI / Machine Learning
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" />
+</p>
 
-**GenAI:** LLMs · RAG · LangChain · LangGraph · Prompt Engineering
+<p>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+</p>
 
-### 🗄️ Databases & Cloud
+**GenAI:** `LLMs` · `RAG` · `LangChain` · `LangGraph` · `Prompt Engineering`
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+### 🗄️ Databases
 
-### 🔧 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" />
+</p>
 
-![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white)
+### ☁️ Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker&theme=dark" />
+</p>
+
+### 🔧 Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+</p>
 
 ---
 
@@ -73,16 +126,42 @@ I’m a developer who enjoys building **real-world applications**, exploring **G
 
 ---
 
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Skaftab883/Skaftab883/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+</p>
+
+---
+
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aftab-shaikh-55566021/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aftab_sk_7)
-[![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikhaftab883@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/aftab-shaikh-55566021/">
+    <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/Skaftab883">
+    <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://instagram.com/aftab_sk_7">
+    <img src="https://img.shields.io/badge/Instagram-A855F7?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <a href="mailto:shaikhaftab883@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ### ⚡ Developer Philosophy
 
-> **"Don't just write code. Understand it, improve it, and build something useful."**
+<p align="center">
+  <b>"Don't just write code. Understand it, improve it, and build something useful."</b>
+</p>
 
-Thanks for stopping by! ⭐
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:A855F7&height=120&section=footer" width="100%"/>
+</p>
