@@ -126,7 +126,7 @@ I'm a developer who enjoys building **real-world applications**, exploring **Gen
 
 ---
 
-## 🐍 GitHub Contribution Snake
+## 🐍 GitHub Contribution
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Skaftab883/Skaftab883/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
